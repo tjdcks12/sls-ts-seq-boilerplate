@@ -1,0 +1,20 @@
+service: sls-ts-seq-boilerplate
+
+plugins:
+  - serverless-plugin-typescript
+  - serverless-offline
+
+provider:
+  name: aws
+  runtime: nodejs10.x
+  region: ap-northeast-2
+
+
+functions:
+  hello:
+    handler: handler.hello
+
+    events:
+      - http:
+          path: hello
+          method: get

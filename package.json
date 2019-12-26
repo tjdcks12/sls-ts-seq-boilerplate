@@ -1,0 +1,24 @@
+{
+  "name": "sls-ts-seq-boilerplate",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {},
+  "author": "kohen.kang",
+  "license": "ISC",
+  "dependencies": {
+    "@types/aws-lambda": "^8.10.39",
+    "@types/bluebird": "^3.5.26",
+    "bluebird": "^3.5.1",
+    "reflect-metadata": "^0.1.10",
+    "sequelize": "^5.12.2",
+    "sequelize-typescript": "^1.1.0",
+    "serverless-offline": "^5.12.1",
+    "serverless-plugin-typescript": "^1.1.9"
+  },
+  "devDependencies": {
+    "@types/node": "^12.6.9",
+    "ts-node": "^3.3.0",
+    "tslint": "^5.18.0",
+    "typescript": "^3.5.3"
+  }
+}
