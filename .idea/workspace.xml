@@ -1,10 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SCOPE_TYPE" value="3" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="82bb6c27-cca2-4dd6-a307-95b7f96edfa8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.build/handler.js" beforeDir="false" afterPath="$PROJECT_DIR$/.build/handler.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.build/handler.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/.build/handler.js.map" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/handler.ts" beforeDir="false" afterPath="$PROJECT_DIR$/handler.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
@@ -64,7 +67,7 @@
       <option name="presentableId" value="Default" />
       <updated>1577342855597</updated>
       <workItem from="1577342857458" duration="2063000" />
-      <workItem from="1577345001321" duration="146000" />
+      <workItem from="1577345001321" duration="736000" />
     </task>
     <servers />
   </component>

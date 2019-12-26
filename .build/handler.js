@@ -1,4 +1,4 @@
-'use strict';
+"use strict";
 var __awaiter = (this && this.__awaiter) || function (thisArg, _arguments, P, generator) {
     function adopt(value) { return value instanceof P ? value : new P(function (resolve) { resolve(value); }); }
     return new (P || (P = Promise))(function (resolve, reject) {
@@ -23,7 +23,7 @@ const corsHeader = {
 };
 const hello = (event, context, callback) => __awaiter(void 0, void 0, void 0, function* () {
     const msg = JSON.stringify({
-        message: "Hello, sls-ts-seq-boilerplate",
+        message: 'Hello, sls-ts-seq-boilerplate',
     });
     const res = new IResponse(200, msg);
     callback(undefined, res);
