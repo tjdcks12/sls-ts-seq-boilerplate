@@ -13,12 +13,13 @@
     "sequelize": "^5.12.2",
     "sequelize-typescript": "^1.1.0",
     "serverless-offline": "^5.12.1",
-    "serverless-plugin-typescript": "^1.1.9"
+    "serverless-plugin-typescript": "^1.1.9",
+    "tslint": "^5.20.1",
+    "tslint-config-airbnb": "^5.11.2"
   },
   "devDependencies": {
     "@types/node": "^12.6.9",
     "ts-node": "^3.3.0",
-    "tslint": "^5.18.0",
     "typescript": "^3.5.3"
   }
 }
